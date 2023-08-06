@@ -1,0 +1,656 @@
+<!DOCTYPE HTML>
+<!--
+	Strata by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Rodrigo Mercê</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<link rel="stylesheet" href="assets/css/font-awesome.min.css">
+		<meta name="google-site-verification" content="rn1QpwrtlXcLMIljmLIXK7CqPKAsX4ej9PMgC38-w7Q" />
+		
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-171269619-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-171269619-1');
+</script>
+
+
+	</head>
+	<body class="is-preload">
+
+		<!-- Header -->
+			<header id="header">
+				<div class="inner">
+					<a href="index.html" class="image avatar"><img src="images/avatar.jpg" alt="" /></a>
+					
+					<h1><strong><a href="#"  class="icon solid">Rodrigo Mercê  </a></strong></h1><br />
+					<h5>Estudante de Engenharia da Computação - <a href="https://univesp.br/" target="_blank">UNIVESP</a></h5>
+					<h5>Estudante de Segurança da Informação - <a href="https://www.unip.br/" target="_blank">UNIP</a></h5>
+					
+				</div>
+			</header>
+
+		<!-- Main -->
+			<div id="main">
+
+				<!-- One -
+					<section id="one">
+						<header class="major">
+							<h2>Sobre mim</h2>
+						</header>
+						<p>Estudante de Engenharia da Computação pela UNIVESP. <br/>
+						Analista TI Jr.<br/>
+						</p>
+						<p>Meu primeiro contato com scripts foi através do prompt de comando do windows otimizando algumas rotinas pessoais, criando ferramentas para encontrar arquivos com extensões específicas em meu computador.<br/> <br/> 
+						Com o objetivo de ampliar meu conhecimento passei a buscar ferramentas de estudos alternativas, através de cursos online  na área de desenvolvimento até iniciar alguns trabalhos freelances criando páginas web simples.<br /><br/> 
+						Desde então descobri minha paixão pela área e não parei mais, sempre buscando por novas linguagens e tecnologia me deparei com a área de segurança da informação, instalei minha primeira distro Linux, comprei alguns cursos e comecei a estudar as ferramentas para Pentest bem como o bashscript,  onde foi possível desenvolver e entender algumas ferramentas para segurança e automação.<br /><br/> 
+						Comecei a desenvolver programas profissionalmente quando tive a oportunidade de participar da equipe de Planejamento, Qualidade e TI da empresa em que trabalho atualmente, onde comecei a programar em VBA (linguagem de programação utilizada no excel) para controle e automação da empresa, VB6 linguagem utilizada nos sistemas afim de armazenar e controlar as informações dos setores.<br /><br/> 
+						Atualmente utilizo o VB.NET e C# para o desenvolvimento das aplicações. Em suma, sou responsável por todos os scripts, programas e sites da empresa.</p>
+						
+						
+<!--h4>Tecnologias</h4>
+						<div class="listas">
+						<ul>
+							<li>VBA</li>
+							<li>VB6</li>
+							<li>VB.NET</li>
+							<li>C#</li>
+						</ul>
+						</div>
+						<div class="listas">
+						<ul>
+							<li>Avançado</li>
+							<li>Avançado</li>
+							<li>Avançado</li>
+							<li>Intermediário</li>
+						</ul>
+						</div-->
+						<ul class="actions">
+							<h2>Termos De Uso e Pol&iacute;tica de privacidade</h2>
+</center>
+
+<p><br />
+<br />
+<br />
+<b>VIS&Atilde;O GERAL</b><br />
+<br />
+Esse aplicativo &eacute; operado pelo RonnyyApp Em todo o aplicativo, os termos &ldquo;n&oacute;s&rdquo;, &ldquo;nos&rdquo; e &ldquo;nosso&rdquo; se referem ao RonnyyApp. O ronnyyapp.net proporciona esse , incluindo todas as informa&ccedil;&otilde;es, ferramentas e servi&ccedil;os dispon&iacute;veis deste aplicativo para voc&ecirc;, o usu&aacute;rio, com a condi&ccedil;&atilde;o da sua aceita&ccedil;&atilde;o de todos os termos, condi&ccedil;&otilde;es, pol&iacute;ticas e avisos declarados aqui.<br />
+<br />
+Ao visitar nosso aplicativo e/ou comprar alguma coisa no nosso aplicativo, voc&ecirc; est&aacute; utilizando nossos &ldquo;Servi&ccedil;os&rdquo;. Consequentemente, voc&ecirc; concorda com os seguintes Termos de Uso e Pol&iacute;tica de privacidade (&ldquo;Termos de Uso&rdquo;, &ldquo;Pol&iacute;tica de privacidade&rdquo;), incluindo os termos e pol&iacute;ticas adicionais mencionados neste documento e/ou dispon&iacute;veis por hyperlink. Essa Pol&iacute;tica de privacidade se aplicam a todos os usu&aacute;rios do aplicativo, incluindo, sem limita&ccedil;&atilde;o, os usu&aacute;rios que s&atilde;o navegadores, fornecedores, clientes, lojistas e/ou contribuidores de conte&uacute;do.<br />
+<br />
+Por favor, leia esses Termos de Uso e Pol&iacute;tica de privacidade cuidadosamente antes de acessar ou utilizar o nosso Aplicativo. Ao acessar ou usar qualquer parte do Aplicativo, voc&ecirc; concorda com os Termos de Uso e Pol&iacute;tica de privacidade. Se voc&ecirc; n&atilde;o concorda com todos os termos de uso e pol&iacute;tica de privacidade desse acordo, ent&atilde;o voc&ecirc; n&atilde;o pode usar o aplicativo ou usar quaisquer servi&ccedil;os. Se esses termos de uso e pol&iacute;tica de privacidade s&atilde;o considerados uma oferta, a aceita&ccedil;&atilde;o &eacute; expressamente limitada a esses Termos de Uso e Pol&iacute;tica de privacidade.<br />
+<br />
+Quaisquer novos recursos ou ferramentas que forem adicionados ao aplicativo tamb&eacute;m devem estar sujeitos aos Termos de Uso e Pol&iacute;tica de privacidade. Voc&ecirc; pode revisar a vers&atilde;o mais atual dos Termos de Uso e Pol&iacute;tica de privacidade quando quiser nesta p&aacute;gina. Reservamos o direito de atualizar, alterar ou trocar qualquer parte desses Termos de Uso e Pol&iacute;tica de privacidade ao publicar atualiza&ccedil;&otilde;es e/ou altera&ccedil;&otilde;es no nosso aplicatico. &Eacute; sua responsabilidade verificar as altera&ccedil;&otilde;es feitas nesta p&aacute;gina periodicamente. Seu uso cont&iacute;nuo ou acesso ao aplicativo ap&oacute;s a publica&ccedil;&atilde;o de quaisquer altera&ccedil;&otilde;es constitui aceita&ccedil;&atilde;o de tais altera&ccedil;&otilde;es.<br />
+<br />
+Nosso Aplicativo n&atilde;o foi publicado na PlayStore. e estar&aacute; a sua disposi&ccedil;&atilde;o Pelo valor informado no ato da compra.<br />
+<br />
+<b>SE&Ccedil;&Atilde;O 1 - TERMOS DO APLICATIVO</b><br />
+<br />
+Ao concordar com os Termos de Uso e Pol&iacute;tica de privacidade, voc&ecirc; confirma que voc&ecirc; &eacute; maior de idade em seu estado ou prov&iacute;ncia de resid&ecirc;ncia e que voc&ecirc; nos deu seu consentimento para permitir que qualquer um dos seus dependentes menores de idade usem esse aplicativo.<br />
+<br />
+Voc&ecirc; n&atilde;o deve usar nosso aplicativo para qualquer fim ilegal ou n&atilde;o autorizado. Voc&ecirc; tamb&eacute;m n&atilde;o pode, ao usufruir deste Servi&ccedil;o, violar quaisquer leis em sua jurisdi&ccedil;&atilde;o (incluindo, mas n&atilde;o limitado, a leis de direitos autorais).<br />
+<br />
+Voc&ecirc; n&atilde;o deve transmitir nenhum v&iacute;rus ou qualquer c&oacute;digo de natureza destrutiva.<br />
+<br />
+Violar qualquer um dos Termos tem como consequ&ecirc;ncia a rescis&atilde;o imediata dos seus Servi&ccedil;os.<br />
+<br />
+<b>SE&Ccedil;&Atilde;O 2 - CONDI&Ccedil;&Otilde;ES GERAIS</b><br />
+<br />
+Reservamos o direito de recusar o servi&ccedil;o a qualquer pessoa por qualquer motivo a qualquer momento.<br />
+<br />
+Voc&ecirc; concorda em n&atilde;o reproduzir, duplicar, copiar, vender, revender ou explorar qualquer parte do Servi&ccedil;o, uso do Servi&ccedil;o, acesso ao Servi&ccedil;o, ou qualquer contato no aplicativo atrav&eacute;s do qual o servi&ccedil;o &eacute; fornecido, sem nossa permiss&atilde;o expressa por escrito.<br />
+<br />
+Os t&iacute;tulos usados nesse acordo s&atilde;o inclu&iacute;dos apenas por conveni&ecirc;ncia e n&atilde;o limitam ou afetam os Termos.<br />
+<br />
+<b>SE&Ccedil;&Atilde;O 3 - PRECIS&Atilde;O, INTEGRIDADE E ATUALIZA&Ccedil;&Atilde;O DAS INFORMA&Ccedil;&Otilde;ES</b><br />
+<br />
+Esse aplicativo pode conter certas informa&ccedil;&otilde;es hist&oacute;ricas. As informa&ccedil;&otilde;es hist&oacute;ricas podem n&atilde;o ser atuais e s&atilde;o fornecidas apenas para sua refer&ecirc;ncia. Reservamos o direito de modificar o conte&uacute;do desse aplicativo a qualquer momento, mas n&oacute;s n&atilde;o temos obriga&ccedil;&atilde;o de atualizar nenhuma informa&ccedil;&atilde;o em nosso aplicativo. Voc&ecirc; concorda que &eacute; de sua responsabilidade monitorar altera&ccedil;&otilde;es no nosso aplicativo.<br />
+<br />
+<b>SE&Ccedil;&Atilde;O 4 - MODIFICA&Ccedil;&Otilde;ES DO SERVI&Ccedil;O E PRE&Ccedil;OS</b><br />
+<br />
+Os pre&ccedil;os dos nossos produtos s&atilde;o sujeitos a altera&ccedil;&otilde;es sem notifica&ccedil;&atilde;o.<br />
+<br />
+Reservamos o direito de, a qualquer momento, modificar ou descontinuar o Servi&ccedil;o (ou qualquer parte ou conte&uacute;do do mesmo) sem notifica&ccedil;&atilde;o em qualquer momento.<br />
+<br />
+N&atilde;o nos responsabilizados por voc&ecirc; ou por qualquer terceiro por qualquer modifica&ccedil;&atilde;o, altera&ccedil;&atilde;o de pre&ccedil;os, suspens&atilde;o ou descontinua&ccedil;&atilde;o do Servi&ccedil;o.<br />
+<br />
+<b>SE&Ccedil;&Atilde;O 5 - PRODUTOS OU SERVI&Ccedil;OS (caso aplic&aacute;vel)</b><br />
+<br />
+Certos produtos ou servi&ccedil;os podem estar dispon&iacute;veis exclusivamente online atrav&eacute;s do aplicativo. Tais produtos ou servi&ccedil;os podem ter quantidades limitadas e s&atilde;o sujeitos a apenas devolu&ccedil;&atilde;o ou troca, de acordo com nossa Pol&iacute;tica de devolu&ccedil;&atilde;o.<br />
+<br />
+Reservamos o direito, mas n&atilde;o somos obrigados, a limitar as vendas de nossos produtos ou Servi&ccedil;os para qualquer pessoa, regi&atilde;o geogr&aacute;fica ou jurisdi&ccedil;&atilde;o. Podemos exercer esse direito conforme o caso. Reservamos o direito de limitar as quantidades de quaisquer produtos ou servi&ccedil;os que oferecemos. Todas as descri&ccedil;&otilde;es de produtos ou pre&ccedil;os de produtos s&atilde;o sujeitos a altera&ccedil;&atilde;o a qualquer momento sem notifica&ccedil;&atilde;o, a nosso crit&eacute;rio exclusivo. Reservamos o direito de descontinuar qualquer produto a qualquer momento. Qualquer oferta feita por qualquer produto ou servi&ccedil;o nesse site &eacute; nula onde for proibido por lei.<br />
+<br />
+N&atilde;o garantimos que a qualidade de quaisquer produtos, servi&ccedil;os, informa&ccedil;&otilde;es ou outros materiais comprados ou obtidos por voc&ecirc; v&atilde;o atender &agrave;s suas expectativas, ou que quaisquer erros no Servi&ccedil;o ser&atilde;o corrigidos.<br />
+<br />
+<b>SE&Ccedil;&Atilde;O 6 - FERRAMENTAS OPCIONAIS</b><br />
+<br />
+Podemos te dar acesso a ferramentas de terceiros que n&atilde;o monitoramos e nem temos qualquer controle.<br />
+<br />
+Voc&ecirc; reconhece e concorda que n&oacute;s fornecemos acesso a tais ferramentas &rdquo;como elas s&atilde;o&rdquo; e &ldquo;conforme a disponibilidade&rdquo; sem quaisquer garantias, representa&ccedil;&otilde;es ou condi&ccedil;&otilde;es de qualquer tipo e sem qualquer endosso. N&atilde;o nos responsabilizamos de forma alguma pelo seu uso de ferramentas opcionais de terceiros.<br />
+<br />
+Qualquer uso de ferramentas opcionais oferecidas atrav&eacute;s do aplicativo &eacute; inteiramente por sua conta e risco e voc&ecirc; se familiarizar e aprovar os termos das ferramentas que s&atilde;o fornecidas por fornecedor(es) terceiro(s).<br />
+<br />
+Tamb&eacute;m podemos, futuramente, oferecer novos servi&ccedil;os e/ou recursos atrav&eacute;s do Aplicativo (incluindo o lan&ccedil;amento de novas ferramentas e recursos). Tais recursos e/ou servi&ccedil;os novos tamb&eacute;m devem estar sujeitos a esses Termos de servi&ccedil;o.<br />
+<br />
+<b>SE&Ccedil;&Atilde;O 7 - LINKS DE TERCEIROS</b><br />
+<br />
+Certos produtos, conte&uacute;dos e servi&ccedil;os dispon&iacute;veis pelo nosso Servi&ccedil;o podem incluir materiais de terceiros.<br />
+<br />
+Os links de terceiros nesse aplicativo podem te direcionar para sites de terceiros que n&atilde;o s&atilde;o afiliados a n&oacute;s. N&atilde;o nos responsabilizamos por examinar ou avaliar o conte&uacute;do ou precis&atilde;o. N&atilde;o garantimos e nem temos obriga&ccedil;&atilde;o ou responsabilidade por quaisquer materiais ou sites de terceiros, ou por quaisquer outros materiais, produtos ou servi&ccedil;os de terceiros.<br />
+<br />
+N&atilde;o somos respons&aacute;veis por quaisquer danos ou preju&iacute;zos relacionados com a compra ou uso de mercadorias, servi&ccedil;os, recursos, conte&uacute;do, ou quaisquer outras transa&ccedil;&otilde;es feitas em conex&atilde;o com quaisquer sites de terceiros. Por favor, revise com cuidado as pol&iacute;ticas e pr&aacute;ticas de terceiros e certifique-se que voc&ecirc; as entende antes de efetuar qualquer transa&ccedil;&atilde;o. As queixas, reclama&ccedil;&otilde;es, preocupa&ccedil;&otilde;es ou quest&otilde;es relativas a produtos de terceiros devem ser direcionadas ao terceiro.<br />
+<br />
+<b>SE&Ccedil;&Atilde;O 8 - COMENT&Aacute;RIOS, FEEDBACK, ETC. DO USU&Aacute;RIO</b><br />
+<br />
+Se, a nosso pedido, voc&ecirc; enviar certos itens espec&iacute;ficos (por exemplo, participa&ccedil;&atilde;o em um concurso), ou sem um pedido nosso, voc&ecirc; enviar ideias criativas, sugest&otilde;es, propostas, planos, ou outros materiais, seja online, por e-mail, pelo correio, ou de outra forma (em conjunto chamados de coment&aacute;rios), voc&ecirc; concorda que podemos, a qualquer momento, sem restri&ccedil;&atilde;o, editar, copiar, publicar, distribuir, traduzir e de outra forma usar quaisquer coment&aacute;rios que voc&ecirc; encaminhar para n&oacute;s. N&atilde;o nos responsabilizamos por: (1) manter quaisquer coment&aacute;rios em sigilo; (2) indenizar por quaisquer coment&aacute;rios; ou (3) responder quaisquer coment&aacute;rios.<br />
+<br />
+Podemos, mas n&atilde;o temos a obriga&ccedil;&atilde;o, de monitorar, editar ou remover conte&uacute;do que n&oacute;s determinamos a nosso pr&oacute;prio crit&eacute;rio ser contra a lei, ofensivo, amea&ccedil;ador, calunioso, difamat&oacute;rio, pornogr&aacute;fico, obsceno ou censur&aacute;vel ou que viole a propriedade intelectual de terceiros ou estes Termos de Uso e Pol&iacute;tica de privacidade.<br />
+<br />
+Voc&ecirc; concorda que seus coment&aacute;rios n&atilde;o violar&atilde;o qualquer direito de terceiros, incluindo direitos autorais, marcas registradas, privacidade, personalidade ou outro direito pessoal ou de propriedade. Voc&ecirc; concorda que os seus coment&aacute;rios n&atilde;o v&atilde;o conter material difamat&oacute;rio, ilegal, abusivo ou obsceno. Eles tamb&eacute;m n&atilde;o conter&atilde;o nenhum v&iacute;rus de computador ou outro malware que possa afetar a opera&ccedil;&atilde;o do Servi&ccedil;o ou qualquer site relacionado. Voc&ecirc; n&atilde;o pode usar um endere&ccedil;o de e-mail falso, fingir ser algu&eacute;m diferente de si mesmo, ou de outra forma enganar a n&oacute;s ou terceiros quanto &agrave; origem de quaisquer coment&aacute;rios. Voc&ecirc; &eacute; o &uacute;nico respons&aacute;vel por quaisquer coment&aacute;rios que voc&ecirc; faz e pela veracidade deles. N&oacute;s n&atilde;o assumimos qualquer responsabilidade ou obriga&ccedil;&atilde;o por quaisquer coment&aacute;rios publicados por voc&ecirc; ou por qualquer terceiro.<br />
+<br />
+<b>SE&Ccedil;&Atilde;O 9 - INFORMA&Ccedil;&Otilde;ES PESSOAIS</b><br />
+<br />
+O envio de suas informa&ccedil;&otilde;es pessoais atrav&eacute;s do nosso aplicativo &eacute; regido pela nossa Pol&iacute;tica de privacidade. Ver nossa Pol&iacute;tica de privacidade.<br />
+<br />
+<b>SE&Ccedil;&Atilde;O 10 - ERROS, IMPRECIS&Otilde;ES E OMISS&Otilde;ES</b><br />
+<br />
+Ocasionalmente, pode haver informa&ccedil;&otilde;es no nosso aplicativo ou no Servi&ccedil;o que cont&eacute;m erros tipogr&aacute;ficos, imprecis&otilde;es ou omiss&otilde;es que possam relacionar-se a descri&ccedil;&otilde;es de produtos, pre&ccedil;os, promo&ccedil;&otilde;es, ofertas, taxas de envio do produto, o prazo de envio e disponibilidade. Reservamos o direito de corrigir quaisquer erros, imprecis&otilde;es ou omiss&otilde;es, e de alterar ou atualizar informa&ccedil;&otilde;es ou cancelar encomendas caso qualquer informa&ccedil;&atilde;o no Servi&ccedil;o ou em qualquer aplicativo relacionado seja imprecisa, a qualquer momento e sem aviso pr&eacute;vio (at&eacute; mesmo depois de voc&ecirc; ter enviado o seu pedido).<br />
+<br />
+N&atilde;o assumimos nenhuma obriga&ccedil;&atilde;o de atualizar, alterar ou esclarecer informa&ccedil;&otilde;es no Servi&ccedil;o ou em qualquer aplicativo relacionado, incluindo, sem limita&ccedil;&atilde;o, a informa&ccedil;&otilde;es sobre pre&ccedil;os, exceto conforme exigido por lei. Nenhuma atualiza&ccedil;&atilde;o espec&iacute;fica ou data de atualiza&ccedil;&atilde;o no Servi&ccedil;o ou em qualquer site relacionado, deve ser utilizada para indicar que todas as informa&ccedil;&otilde;es do Servi&ccedil;o ou em qualquer aplicativo relacionado tenham sido modificadas ou atualizadas.<br />
+<br />
+<b>SE&Ccedil;&Atilde;O 11 - USOS PROIBIDOS</b><br />
+<br />
+Al&eacute;m de outras proibi&ccedil;&otilde;es, conforme estabelecido nos Termos de Uso e Pol&iacute;tica de privacidade, voc&ecirc; est&aacute; proibido de usar o aplicativo ou o conte&uacute;do para: (a) fins il&iacute;citos; (b) solicitar outras pessoas a realizar ou participar de quaisquer atos il&iacute;citos; &copy; violar quaisquer regulamentos internacionais, provinciais, estaduais ou federais, regras, leis ou regulamentos locais; (d) infringir ou violar nossos direitos de propriedade intelectual ou os direitos de propriedade intelectual de terceiros; (e) para assediar, abusar, insultar, danificar, difamar, caluniar, depreciar, intimidar ou discriminar com base em g&ecirc;nero, orienta&ccedil;&atilde;o sexual, religi&atilde;o, etnia, ra&ccedil;a, idade, nacionalidade ou defici&ecirc;ncia; (f) apresentar informa&ccedil;&otilde;es falsas ou enganosas; (g) fazer o envio ou transmitir v&iacute;rus ou qualquer outro tipo de c&oacute;digo malicioso que ser&aacute; ou poder&aacute; ser utilizado para afetar a funcionalidade ou opera&ccedil;&atilde;o do Servi&ccedil;o ou de qualquer site relacionado, outros sites, ou da Internet; (h) coletar ou rastrear as informa&ccedil;&otilde;es pessoais de outras pessoas; (i) para enviar spam, phishing, pharm, pretext, spider, crawl, ou scrape; (j) para fins obscenos ou imorais; ou (k) para interferir ou contornar os recursos de seguran&ccedil;a do Servi&ccedil;o ou de qualquer site relacionado, outros sites, ou da Internet. Reservamos o direito de rescindir o seu uso do Servi&ccedil;o ou de qualquer aplicativo relacionado por violar qualquer um dos usos proibidos.<br />
+<br />
+<b>SE&Ccedil;&Atilde;O 12 - ISEN&Ccedil;&Atilde;O DE RESPONSABILIDADE DE GARANTIAS; LIMITA&Ccedil;&Atilde;O DE RESPONSABILIDADE</b><br />
+<br />
+N&oacute;s n&atilde;o garantimos, representamos ou justificamos que o seu uso do nosso servi&ccedil;o ser&aacute; pontual, seguro, sem erros ou interrup&ccedil;&otilde;es.<br />
+<br />
+N&atilde;o garantimos que os resultados que possam ser obtidos pelo uso do servi&ccedil;o ser&atilde;o precisos ou confi&aacute;veis.<br />
+<br />
+Voc&ecirc; concorda que de tempos em tempos, podemos remover o servi&ccedil;o por per&iacute;odos indefinidos de tempo ou cancelar a qualquer momento, sem te notificar.<br />
+<br />
+Em nenhuma circunst&acirc;ncia o RonnyyApp, nossos diretores, oficiais, funcion&aacute;rios, afiliados, agentes, contratantes, estagi&aacute;rios, fornecedores, prestadores de servi&ccedil;os ou licenciadores ser&atilde;o respons&aacute;veis por qualquer preju&iacute;zo, perda, reclama&ccedil;&atilde;o ou danos diretos, indiretos, incidentais, punitivos, especiais ou consequentes de qualquer tipo, incluindo, sem limita&ccedil;&atilde;o, lucros cessantes, perda de receita, poupan&ccedil;as perdidas, perda de dados, custos de reposi&ccedil;&atilde;o, ou quaisquer danos semelhantes, seja com base em contrato, ato il&iacute;cito (incluindo neglig&ecirc;ncia), responsabilidade objetiva ou de outra forma, decorrentes do seu uso de qualquer um dos servi&ccedil;os ou quaisquer produtos adquiridos usando o servi&ccedil;o, ou para qualquer outra reclama&ccedil;&atilde;o relacionada de alguma forma ao seu uso do servi&ccedil;o ou qualquer produto, incluindo, mas n&atilde;o limitado a, quaisquer erros ou omiss&otilde;es em qualquer conte&uacute;do, ou qualquer perda ou dano de qualquer tipo como resultado do uso do servi&ccedil;o ou qualquer conte&uacute;do (ou produto) publicado, transmitido ou de outra forma dispon&iacute;vel atrav&eacute;s do servi&ccedil;o, mesmo se alertado ​​de tal possibilidade. Como alguns estados ou jurisdi&ccedil;&otilde;es n&atilde;o permitem a exclus&atilde;o ou a limita&ccedil;&atilde;o de responsabilidade por danos consequentes ou incidentais, em tais estados ou jurisdi&ccedil;&otilde;es, a nossa responsabilidade ser&aacute; limitada &agrave; extens&atilde;o m&aacute;xima permitida por lei.<br />
+<br />
+<b>SE&Ccedil;&Atilde;O 13 - INDENIZA&Ccedil;&Atilde;O</b><br />
+<br />
+Voc&ecirc; concorda em indenizar, defender e isentar RonnyyApp e nossos subsidi&aacute;rios, afiliados, parceiros, funcion&aacute;rios, diretores, agentes, contratados, licenciantes, prestadores de servi&ccedil;os, subcontratados, fornecedores, estagi&aacute;rios e funcion&aacute;rios, de qualquer reclama&ccedil;&atilde;o ou demanda, incluindo honor&aacute;rios de advogados, por quaisquer terceiros devido &agrave; viola&ccedil;&atilde;o destes Termos de Uso e Pol&iacute;tica de privacidade ou aos documentos que incorporam por refer&ecirc;ncia, ou &agrave; viola&ccedil;&atilde;o de qualquer lei ou os direitos de um terceiro.<br />
+<br />
+<b>SE&Ccedil;&Atilde;O 14 - INDEPEND&Ecirc;NCIA</b><br />
+<br />
+No caso de qualquer disposi&ccedil;&atilde;o destes Termos de Uso e Pol&iacute;tica de privacidade ser considerada ilegal, nula ou ineficaz, tal disposi&ccedil;&atilde;o deve, contudo, ser aplic&aacute;vel at&eacute; ao limite m&aacute;ximo permitido pela lei aplic&aacute;vel, e a por&ccedil;&atilde;o inexequ&iacute;vel ser&aacute; considerada separada desses Termos de Uso e Pol&iacute;tica de privacidade. Tal determina&ccedil;&atilde;o n&atilde;o prejudica a validade e aplicabilidade de quaisquer outras disposi&ccedil;&otilde;es restantes.<br />
+<br />
+<b>SE&Ccedil;&Atilde;O 15 - RESCIS&Atilde;O</b><br />
+<br />
+As obriga&ccedil;&otilde;es e responsabilidades das partes incorridas antes da data de rescis&atilde;o devem continuar ap&oacute;s a rescis&atilde;o deste acordo para todos os efeitos.<br />
+<br />
+Estes Termos de Uso e Pol&iacute;tica de privacidade est&atilde;o em vigor, a menos que seja rescindido por voc&ecirc; ou por n&oacute;s. Voc&ecirc; pode rescindir estes Termos de Uso e Pol&iacute;tica de privacidade a qualquer momento, notificando-nos que j&aacute; n&atilde;o deseja utilizar os nossos servi&ccedil;os, ou quando voc&ecirc; deixar de usar o nosso aplicativo.<br />
+<br />
+Se em nosso crit&eacute;rio exclusivo voc&ecirc; n&atilde;o cumprir com qualquer termo ou disposi&ccedil;&atilde;o destes Termos de Uso e Pol&iacute;tica de privacidade, n&oacute;s tamb&eacute;m podemos rescindir este contrato a qualquer momento sem aviso pr&eacute;vio e voc&ecirc; ficar&aacute; respons&aacute;vel por todas as quantias devidas at&eacute; a data da rescis&atilde;o; tamb&eacute;m podemos lhe negar acesso a nossos Servi&ccedil;os (ou qualquer parte deles).<br />
+<br />
+<b>SE&Ccedil;&Atilde;O 16 - ALTERA&Ccedil;&Otilde;ES DOS TERMOS DE SERVI&Ccedil;O</b><br />
+<br />
+Voc&ecirc; pode rever a vers&atilde;o mais atual dos Termos de Uso e Pol&iacute;tica de privacidade a qualquer momento nessa p&aacute;gina.<br />
+<br />
+Reservamos o direito, a nosso crit&eacute;rio, de atualizar, modificar ou substituir qualquer parte destes Termos de Uso e Pol&iacute;tica de privacidade ao publicar atualiza&ccedil;&otilde;es e altera&ccedil;&otilde;es no nosso aplicativo. &Eacute; sua responsabilidade verificar nosso aplicativo periodicamente. Seu uso cont&iacute;nuo ou acesso ao nosso aplicativo ou ao Servi&ccedil;o ap&oacute;s a publica&ccedil;&atilde;o de quaisquer altera&ccedil;&otilde;es a estes Termos de servi&ccedil;o constitui aceita&ccedil;&atilde;o dessas altera&ccedil;&otilde;es.<br />
+<br />
+<b>SE&Ccedil;&Atilde;O 17 - COLETA E USO DE INFORMA&Ccedil;OES</b><br />
+<br />
+Para uma melhor experi&ecirc;ncia, ao usar nosso Servi&ccedil;o, posso solicitar que voc&ecirc; nos forne&ccedil;a certas informa&ccedil;&otilde;es de identifica&ccedil;&atilde;o pessoal, incluindo, mas n&atilde;o se limitando a N&atilde;o coletamos dados. As informa&ccedil;&otilde;es que solicito ser&atilde;o retidas em seu dispositivo e n&atilde;o ser&atilde;o coletadas por mim de forma alguma.<br />
+<br />
+O aplicativo usa servi&ccedil;os de terceiros que podem coletar informa&ccedil;&otilde;es usadas para identific&aacute;-lo.<br />
+<br />
+provedores de servi&ccedil;os terceirizados usados ​pelo aplicativo<br />
+<br />
+<b>SE&Ccedil;&Atilde;O 18 - INFORMA&Ccedil;&Otilde;ES DE CONTATO</b><br />
+<br />
+As perguntas sobre os Termos de uso e pol&iacute;tica de privacidade devem ser enviadas para n&oacute;s atrav&eacute;s do <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="fa9b8a8aba889594948383d4999597">[email&#160;protected]</a></p>
+						</ul>
+						
+					</section>
+
+				<!-- Two 
+					<section id="two">
+						<h2>Projetos</h2>
+						<div class="row">
+							<article class="col-6 col-12-xsmall work-item">
+								<a href="projetos/bottelegram/sistema1.PNG" class="image fit thumb"><img src="projetos/bottelegram/sistema1.PNG" alt="" /></a>
+								<h3>Telegram bot</h3>
+								<a href="sistema1.php"><p>Clique aqui e saiba mais.</p></a>
+							</article>
+							<article class="col-6 col-12-xsmall work-item">
+								<a href="projetos/rodarpdf/sistema2.PNG" class="image fit thumb"><img src="projetos/rodarpdf/sistema2.PNG" alt="" /></a>
+								<h3>Rodar PDF</h3>
+								<a href="sistema2.php"><p>Clique aqui e saiba mais.</p></a>
+							</article>
+
+							<article class="col-6 col-12-xsmall work-item">
+								<a href="projetos/site/site1.png" class="image fit thumb"><img src="projetos/site/site1.png" alt="" /></a>
+								<h3>Site+Vendas+PortalAluno</h3>
+								<a href="site1.php"><p>Clique aqui e saiba mais.</p></a>
+							</article>
+							<!--article class="col-6 col-12-xsmall work-item">
+								<a href="images/fulls/03.jpg" class="image fit thumb"><img src="images/thumbs/03.jpg" alt="" /></a>
+								<h3>Tortor metus commodo</h3>
+								<p>Lorem ipsum dolor sit amet nisl sed nullam feugiat.</p>
+							</article>
+							<article class="col-6 col-12-xsmall work-item">
+								<a href="images/fulls/04.jpg" class="image fit thumb"><img src="images/thumbs/04.jpg" alt="" /></a>
+								<h3>Quam neque phasellus</h3>
+								<p>Lorem ipsum dolor sit amet nisl sed nullam feugiat.</p>
+							</article>
+							<article class="col-6 col-12-xsmall work-item">
+								<a href="images/fulls/05.jpg" class="image fit thumb"><img src="images/thumbs/05.jpg" alt="" /></a>
+								<h3>Nunc enim commodo aliquet</h3>
+								<p>Lorem ipsum dolor sit amet nisl sed nullam feugiat.</p>
+							</article>
+							<article class="col-6 col-12-xsmall work-item">
+								<a href="images/fulls/06.jpg" class="image fit thumb"><img src="images/thumbs/06.jpg" alt="" /></a>
+								<h3>Risus ornare lacinia</h3>
+								<p>Lorem ipsum dolor sit amet nisl sed nullam feugiat.</p>
+							</article-->
+						</div>
+						<!--ul class="actions">
+							<li><a href="#" class="button">Full Portfolio</a></li>
+						</ul-->
+					</section-->
+
+				<!-- Three -->
+					<!--section id="three">
+						<h2>Contato</h2>
+						<!--p>Accumsan pellentesque commodo blandit enim arcu non at amet id arcu magna. Accumsan orci faucibus id eu lorem semper nunc nisi lorem vulputate lorem neque lorem ipsum dolor.</p-->
+						<!--div class="row">
+							<div class="col-8 col-12-small">
+								<form method="post" action="#">
+									<div class="row gtr-uniform gtr-50">
+										<div class="col-6 col-12-xsmall"><input type="text" name="nope" id="name" placeholder="Nome" /></div>
+										<div class="col-6 col-12-xsmall"><input type="email" name="email" id="email" placeholder="Email" /></div>
+										<div class="col-12"><textarea name="message" id="msg" placeholder="Mensagem" rows="4"></textarea></div>
+									</div>
+								</form>
+								<ul class="actions">
+									<li><input type="submit" value="Enviar" /></li>
+								</ul>
+							</div>
+							<!--div class="col-4 col-12-small">
+								<ul class="labeled-icons">
+									<li>
+										<h3 class="icon solid fa-home"><span class="label">Endereço</span></h3>
+										Guarujá - SP Brazil<br />
+										Nashville, TN 00000<br />
+										United States
+									</li>
+									<li>
+										<h3 class="icon solid fa-mobile-alt"><span class="label">Phone</span></h3>
+										000-000-0000
+									</li>
+									<li>
+										<h3 class="icon solid fa-envelope"><span class="label">Email</span></h3>
+										<a href="#">hello@untitled.tld</a>
+									</li>
+								</ul>
+							</div-->
+						<!--/div>
+					</section>
+
+				<!-- Four -->
+				<!--
+					<section id="four">
+						<h2>Elements</h2>
+
+						<section>
+							<h4>Text</h4>
+							<p>This is <b>bold</b> and this is <strong>strong</strong>. This is <i>italic</i> and this is <em>emphasized</em>.
+							This is <sup>superscript</sup> text and this is <sub>subscript</sub> text.
+							This is <u>underlined</u> and this is code: <code>for (;;) { ... }</code>. Finally, <a href="#">this is a link</a>.</p>
+							<hr />
+							<header>
+								<h4>Heading with a Subtitle</h4>
+								<p>Lorem ipsum dolor sit amet nullam id egestas urna aliquam</p>
+							</header>
+							<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+							<header>
+								<h5>Heading with a Subtitle</h5>
+								<p>Lorem ipsum dolor sit amet nullam id egestas urna aliquam</p>
+							</header>
+							<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+							<hr />
+							<h2>Heading Level 2</h2>
+							<h3>Heading Level 3</h3>
+							<h4>Heading Level 4</h4>
+							<h5>Heading Level 5</h5>
+							<h6>Heading Level 6</h6>
+							<hr />
+							<h5>Blockquote</h5>
+							<blockquote>Fringilla nisl. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan faucibus. Vestibulum ante ipsum primis in faucibus lorem ipsum dolor sit amet nullam adipiscing eu felis.</blockquote>
+							<h5>Preformatted</h5>
+							<pre><code>i = 0;
+
+while (!deck.isInOrder()) {
+print 'Iteration ' + i;
+deck.shuffle();
+i++;
+}
+
+print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
+						</section>
+
+						<section>
+							<h4>Lists</h4>
+							<div class="row">
+								<div class="col-6 col-12-xsmall">
+									<h5>Unordered</h5>
+									<ul>
+										<li>Dolor pulvinar etiam magna etiam.</li>
+										<li>Sagittis adipiscing lorem eleifend.</li>
+										<li>Felis enim feugiat dolore viverra.</li>
+									</ul>
+									<h5>Alternate</h5>
+									<ul class="alt">
+										<li>Dolor pulvinar etiam magna etiam.</li>
+										<li>Sagittis adipiscing lorem eleifend.</li>
+										<li>Felis enim feugiat dolore viverra.</li>
+									</ul>
+								</div>
+								<div class="col-6 col-12-xsmall">
+									<h5>Ordered</h5>
+									<ol>
+										<li>Dolor pulvinar etiam magna etiam.</li>
+										<li>Etiam vel felis at lorem sed viverra.</li>
+										<li>Felis enim feugiat dolore viverra.</li>
+										<li>Dolor pulvinar etiam magna etiam.</li>
+										<li>Etiam vel felis at lorem sed viverra.</li>
+										<li>Felis enim feugiat dolore viverra.</li>
+									</ol>
+									<h5>Icons</h5>
+									<ul class="icons">
+										<li><a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
+										<li><a href="#" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
+										<li><a href="#" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+										<li><a href="#" class="icon brands fa-github"><span class="label">Github</span></a></li>
+										<li><a href="#" class="icon brands fa-dribbble"><span class="label">Dribbble</span></a></li>
+										<li><a href="#" class="icon brands fa-tumblr"><span class="label">Tumblr</span></a></li>
+									</ul>
+								</div>
+							</div>
+							<h5>Actions</h5>
+							<ul class="actions">
+								<li><a href="#" class="button primary">Default</a></li>
+								<li><a href="#" class="button">Default</a></li>
+							</ul>
+							<ul class="actions small">
+								<li><a href="#" class="button primary small">Small</a></li>
+								<li><a href="#" class="button small">Small</a></li>
+							</ul>
+							<div class="row">
+								<div class="col-6 col-12-small">
+									<ul class="actions stacked">
+										<li><a href="#" class="button primary">Default</a></li>
+										<li><a href="#" class="button">Default</a></li>
+									</ul>
+								</div>
+								<div class="col-6 col-12-small">
+									<ul class="actions stacked">
+										<li><a href="#" class="button primary small">Small</a></li>
+										<li><a href="#" class="button small">Small</a></li>
+									</ul>
+								</div>
+								<div class="col-6 col-12-small">
+									<ul class="actions stacked">
+										<li><a href="#" class="button primary fit">Default</a></li>
+										<li><a href="#" class="button fit">Default</a></li>
+									</ul>
+								</div>
+								<div class="col-6 col-12-small">
+									<ul class="actions stacked">
+										<li><a href="#" class="button primary small fit">Small</a></li>
+										<li><a href="#" class="button small fit">Small</a></li>
+									</ul>
+								</div>
+							</div>
+						</section>
+
+						<section>
+							<h4>Table</h4>
+							<h5>Default</h5>
+							<div class="table-wrapper">
+								<table>
+									<thead>
+										<tr>
+											<th>Name</th>
+											<th>Description</th>
+											<th>Price</th>
+										</tr>
+									</thead>
+									<tbody>
+										<tr>
+											<td>Item One</td>
+											<td>Ante turpis integer aliquet porttitor.</td>
+											<td>29.99</td>
+										</tr>
+										<tr>
+											<td>Item Two</td>
+											<td>Vis ac commodo adipiscing arcu aliquet.</td>
+											<td>19.99</td>
+										</tr>
+										<tr>
+											<td>Item Three</td>
+											<td> Morbi faucibus arcu accumsan lorem.</td>
+											<td>29.99</td>
+										</tr>
+										<tr>
+											<td>Item Four</td>
+											<td>Vitae integer tempus condimentum.</td>
+											<td>19.99</td>
+										</tr>
+										<tr>
+											<td>Item Five</td>
+											<td>Ante turpis integer aliquet porttitor.</td>
+											<td>29.99</td>
+										</tr>
+									</tbody>
+									<tfoot>
+										<tr>
+											<td colspan="2"></td>
+											<td>100.00</td>
+										</tr>
+									</tfoot>
+								</table>
+							</div>
+
+							<h5>Alternate</h5>
+							<div class="table-wrapper">
+								<table class="alt">
+									<thead>
+										<tr>
+											<th>Name</th>
+											<th>Description</th>
+											<th>Price</th>
+										</tr>
+									</thead>
+									<tbody>
+										<tr>
+											<td>Item One</td>
+											<td>Ante turpis integer aliquet porttitor.</td>
+											<td>29.99</td>
+										</tr>
+										<tr>
+											<td>Item Two</td>
+											<td>Vis ac commodo adipiscing arcu aliquet.</td>
+											<td>19.99</td>
+										</tr>
+										<tr>
+											<td>Item Three</td>
+											<td> Morbi faucibus arcu accumsan lorem.</td>
+											<td>29.99</td>
+										</tr>
+										<tr>
+											<td>Item Four</td>
+											<td>Vitae integer tempus condimentum.</td>
+											<td>19.99</td>
+										</tr>
+										<tr>
+											<td>Item Five</td>
+											<td>Ante turpis integer aliquet porttitor.</td>
+											<td>29.99</td>
+										</tr>
+									</tbody>
+									<tfoot>
+										<tr>
+											<td colspan="2"></td>
+											<td>100.00</td>
+										</tr>
+									</tfoot>
+								</table>
+							</div>
+						</section>
+
+						<section>
+							<h4>Buttons</h4>
+							<ul class="actions">
+								<li><a href="#" class="button primary">Primary</a></li>
+								<li><a href="#" class="button">Default</a></li>
+							</ul>
+							<ul class="actions">
+								<li><a href="#" class="button large">Large</a></li>
+								<li><a href="#" class="button">Default</a></li>
+								<li><a href="#" class="button small">Small</a></li>
+							</ul>
+							<ul class="actions fit">
+								<li><a href="#" class="button primary fit">Fit</a></li>
+								<li><a href="#" class="button fit">Fit</a></li>
+							</ul>
+							<ul class="actions fit small">
+								<li><a href="#" class="button primary fit small">Fit + Small</a></li>
+								<li><a href="#" class="button fit small">Fit + Small</a></li>
+							</ul>
+							<ul class="actions">
+								<li><a href="#" class="button primary icon solid fa-download">Icon</a></li>
+								<li><a href="#" class="button icon solid fa-download">Icon</a></li>
+							</ul>
+							<ul class="actions">
+								<li><span class="button primary disabled">Primary</span></li>
+								<li><span class="button disabled">Default</span></li>
+							</ul>
+						</section>
+
+						<section>
+							<h4>Form</h4>
+							<form method="post" action="#">
+								<div class="row gtr-uniform gtr-50">
+									<div class="col-6 col-12-xsmall">
+										<input type="text" name="demo-name" id="demo-name" value="" placeholder="Name" />
+									</div>
+									<div class="col-6 col-12-xsmall">
+										<input type="email" name="demo-email" id="demo-email" value="" placeholder="Email" />
+									</div>
+									<div class="col-12">
+										<select name="demo-category" id="demo-category">
+											<option value="">- Category -</option>
+											<option value="1">Manufacturing</option>
+											<option value="1">Shipping</option>
+											<option value="1">Administration</option>
+											<option value="1">Human Resources</option>
+										</select>
+									</div>
+									<div class="col-4 col-12-small">
+										<input type="radio" id="demo-priority-low" name="demo-priority" checked>
+										<label for="demo-priority-low">Low Priority</label>
+									</div>
+									<div class="col-4 col-12-small">
+										<input type="radio" id="demo-priority-normal" name="demo-priority">
+										<label for="demo-priority-normal">Normal Priority</label>
+									</div>
+									<div class="col-4 col-12-small">
+										<input type="radio" id="demo-priority-high" name="demo-priority">
+										<label for="demo-priority-high">High Priority</label>
+									</div>
+									<div class="col-6 col-12-small">
+										<input type="checkbox" id="demo-copy" name="demo-copy">
+										<label for="demo-copy">Email me a copy of this message</label>
+									</div>
+									<div class="col-6 col-12-small">
+										<input type="checkbox" id="demo-human" name="demo-human" checked>
+										<label for="demo-human">I am a human and not a robot</label>
+									</div>
+									<div class="col-12">
+										<textarea name="demo-message" id="demo-message" placeholder="Enter your message" rows="6"></textarea>
+									</div>
+									<div class="col-12">
+										<ul class="actions">
+											<li><input type="submit" value="Send Message" class="primary" /></li>
+											<li><input type="reset" value="Reset" /></li>
+										</ul>
+									</div>
+								</div>
+							</form>
+						</section>
+
+						<section>
+							<h4>Image</h4>
+							<h5>Fit</h5>
+							<div class="box alt">
+								<div class="row gtr-50 gtr-uniform">
+									<div class="col-12"><span class="image fit"><img src="images/fulls/05.jpg" alt="" /></span></div>
+									<div class="col-4"><span class="image fit"><img src="images/thumbs/01.jpg" alt="" /></span></div>
+									<div class="col-4"><span class="image fit"><img src="images/thumbs/02.jpg" alt="" /></span></div>
+									<div class="col-4"><span class="image fit"><img src="images/thumbs/03.jpg" alt="" /></span></div>
+									<div class="col-4"><span class="image fit"><img src="images/thumbs/04.jpg" alt="" /></span></div>
+									<div class="col-4"><span class="image fit"><img src="images/thumbs/05.jpg" alt="" /></span></div>
+									<div class="col-4"><span class="image fit"><img src="images/thumbs/06.jpg" alt="" /></span></div>
+									<div class="col-4"><span class="image fit"><img src="images/thumbs/03.jpg" alt="" /></span></div>
+									<div class="col-4"><span class="image fit"><img src="images/thumbs/02.jpg" alt="" /></span></div>
+									<div class="col-4"><span class="image fit"><img src="images/thumbs/01.jpg" alt="" /></span></div>
+								</div>
+							</div>
+							<h5>Left &amp; Right</h5>
+							<p><span class="image left"><img src="images/avatar.jpg" alt="" /></span>Fringilla nisl. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent.</p>
+							<p><span class="image right"><img src="images/avatar.jpg" alt="" /></span>Fringilla nisl. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent.</p>
+						</section>
+
+					</section>
+				-->
+
+			</div>
+
+		<!-- Footer -->
+			<footer id="footer">
+				<div class="inner">
+					<ul class="icons">
+						<li><a href="https://www.facebook.com/rod.merce" target="_blank" class="icon solid"><i class="fa fa-facebook fa-2x" ></i></a></li>
+						<li><a href="https://github.com/rodrigomerce" target="_blank"  class="icon brands fa-github"><span class="label">Github</span></a></li>
+						<li><a href="https://t.me/RodrigoMerce" target="_blank" class="icon solid"><i class="fa fa-telegram fa-2x" ></i></a></li>
+						<li><a href="https://www.instagram.com/rodrigomerce/" target="_blank" class="icon solid"><i class="fa fa-instagram fa-2x" ></i></a></li>
+						<li><a href="mailto:rodrigomeerce@gmail.com" target="_blank"  class="icon solid fa-envelope"><span class="label">Email</span></a></li>
+						<li><a href="https://api.whatsapp.com/send?phone=5513988134400" target="_blank" class="icon solid"><i class="fa fa-whatsapp fa-2x" ></i></a></li>
+					</ul>
+					<ul class="copyright">
+						<li>&copy; Designed by: <a href="https://www.linkedin.com/in/rodrigomerce/">Rodrigo Mercê</a></li>
+					</ul>
+				</div>
+			</footer>
+
+		<!-- Scripts -->
+		
+			<script type="text/javascript">
+			 
+	
+			</script>
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.poptrox.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
